@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvPlJ7ioSO4WwjmWylD5Xzdpi+C+QsXoVHaX+2NujF2MQPHdSMvRY9kZ6udVxGSoGp+NkTnkCxxi4NogC1R1ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\foxxv\\source\\repos\\YouTubeDownloadTry2\\YouTubeDownloadTry2\\YoutubeDL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\foxxv\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\foxxv\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\foxxv\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\foxxv\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\foxxv\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\foxxv\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
